@@ -80,9 +80,29 @@
 }
 
 input:-moz-placeholder {
-  color: #888;
+ 
+ color: #888;
 }
-
+body{
+	background-color: #bdbdbd;
+	color: #333;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+ol li {
+	color: #e50000;
+    padding: 4px;
+    margin-left: 35px;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 20px;
+}
+.h2{
+  color: #333;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 45px;
+  font-weight: bold;
+}
 .h1 {
   color: #333;
   font-family: 'Helvetica', sans-serif;
